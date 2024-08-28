@@ -8,6 +8,10 @@ public class Adulto {
 		int edad = sca.nextInt();
 		if (edad < 18) {
 			System.out.println("joven");
+			
+			
+			
+			
 		} else {
 			System.out.println("adulto");
 		}
